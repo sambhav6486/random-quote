@@ -1,0 +1,12 @@
+.random-quote{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+
+}
+.quote{
+    padding: 2% 1%;
+    border: 1px solid black;
+}
